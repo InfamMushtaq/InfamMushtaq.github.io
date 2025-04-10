@@ -139,5 +139,13 @@ header{
     background-color: rgb(11, 51, 70);
     margin-bottom: 10px;
 }
+ @media (min-width: 768px)and (max-width:200px){
+    .outer{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 15%;
+    }
+ }
  
  
