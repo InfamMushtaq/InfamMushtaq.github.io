@@ -141,7 +141,6 @@ header{
 }
  @media (max-width: 600px) {
   .outer {
-    flex-direction: column;
     margin-top: 60px;
     scale:0.9;
   }
